@@ -10,7 +10,7 @@ This project analyzes food trends and customer preferences using data visualizat
 - Study time-based sales patterns
 - Explore the relationship between price and demand
 
-## 📊 Dataset
+## 📊 Dataset (https://www.kaggle.com/datasets/ahmedhalimo/balaji-fast-food-sales)
 The dataset used in this project is **Balaji Fast Food Sales Dataset**, which includes:
 
 - Order ID
